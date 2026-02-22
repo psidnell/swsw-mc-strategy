@@ -14,10 +14,12 @@ To suggest changes/additions tag me (PoorSignal) in the [United Kingdom - South 
 
 See later for explanations of what hash channels and scopes are and how to manage them.
 
-| Hashtag Channel Name     | Regional Scopes | Notes                       |
-| ------------------------ | --------------- | --------------------------- |
-| ```#walesandwest-chat``` |                 |                             |
-| ```#walesandwest```      | ```#swsw```     | Experimental scoped channel |
+| Hashtag Channel Name     | Regional Scopes | Notes          |
+| ------------------------ | --------------- | -------------- |
+| ```#walesandwest-chat``` |                 |                |
+| ```#walesandwest```      | ```#swsw```     | Scoped channel |
+| ```#somerset```          |                 |                |
+| ```#somerset-swsw```     | ```#swsw```     | Scoped channel |
 
 ## Public Hashtag Channels
 
