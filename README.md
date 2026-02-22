@@ -20,6 +20,7 @@ See later for explanations of what hash channels and scopes are and how to manag
 | ```#walesandwest```      | ```#swsw```     | Scoped channel |
 | ```#somerset```          |                 |                |
 | ```#somerset-swsw```     | ```#swsw```     | Scoped channel |
+| ```#devon```             |                 |                |
 
 ## Public Hashtag Channels
 
