@@ -63,7 +63,7 @@ There are two aspects to scopes:
 Setting scopes for a channel can be done via the "..." menu at the top of a channel.
 Once successfully done it will be visible at the top of the channel below its name:
 
-![[viewing-scope.png]]
+![](viewing-scope.png)
 
 #### Repeater Configuration
 
