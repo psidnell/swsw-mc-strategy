@@ -45,7 +45,7 @@ This is clearly a complex area and further information for that can be found bel
 We are in a period of transition at the moment where regional scope is only supported by more recent repeater firmware and app versions. There is no central management in place or even a much of a suggested strategy. Until scopes are properly understood and configured by the majority of repeaters and users there is the chance of unforeseen consequences:
 
 - Un-scoped messages intended for a region can be unnecessarily broadcast across the entire mesh if they hit repeaters with no scope configuration.
-- People visiting a scoped channel from outside the region might be surprised to not see messages as they've been dropped by repeaters on the paths. Similarly people travelling outside their region will be be able to post to a scoped channel but not have the messages reach the intended recipients.
+- People visiting a scoped channel from outside the region might be surprised to not see messages as they've been dropped by repeaters on the paths. Similarly people travelling outside their region will be able to post to a scoped channel but not have the messages reach the intended recipients.
 - While a region contains a mix of repeaters with and without scope configuration and a mix of versions where the feature is or is not implemented, scoped message propagation will be somewhat haphazard.
 - Local geography and large propagation paths can mean that a repeater that's critically important for a region does not actually fall within that region. Care should be taken when adding scopes so as not to cut off access to distant islands of repeaters.
 
@@ -53,7 +53,7 @@ We are in a period of transition at the moment where regional scope is only supp
 
 There are two aspects to scopes:
 
-- Configuring the companion to assign a scope to a channel such that any messages they post within it are scoped.
+- Configuring the companion to assign a scope to a channel such that any messages that user  post within it are scoped.
 - Configuring a repeater to re-broadcast messages with known scopes (or none) and drop any with unknown/unwanted scopes.
 
 #### Companion Channel Configuration
