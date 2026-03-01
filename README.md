@@ -15,14 +15,14 @@ To suggest changes/additions tag me (PoorSignal) in the [United Kingdom - South 
 See later for explanations of what hashtag channels and scopes are and how to manage them.
 ## Current Channels
 
-| Hashtag Channel Name     | Regional Scopes | Notes           |
-| ------------------------ | --------------- | --------------- |
-| `#bristol`               | `#bs`           |                 |
-| `#devon`                 |                 |                 |
-| `#somerset-swsw`         | `#swsw`         | Scoped channel  |
-| `#somerset`              |                 |                 |
-| `#walesandwest-chat`     |                 |                 |
-| `#walesandwest`          | `#swsw`         | Scoped channel  |
+| Hashtag Channel Name     | Regional Scopes | Notes                                           |
+| ------------------------ | --------------- | ----------------------------------------------- |
+| `#walesandwest-chat`     |                 | Unscoped channel for whole region               |
+| `#walesandwest`          | `#swsw`         | Scoped channel for whole region                 |
+| `#bristol`               | `#bs`           |                                                 |
+| `#devon`                 |                 |                                                 |
+| `#somerset-swsw`         | `#swsw`         |                                                 |
+| `#somerset`              |                 |                                                 |
 
 ## Current Scopes
 
