@@ -26,7 +26,7 @@ See later for explanations of what hashtag channels and scopes are and how to ma
 
 ## Current Scopes
 
-After the initial introduction of `#swsw` for the entire region there has been discussion that this perhaps doesn't provide enough granularity and the use of postcode prefixes seems to be gaining some traction. The idea behind this is that it's an existing scheme that people already understand. The strategy is to add scopes for your specific and adjacent postcode regions to your repeaters. This allows for the creation of channels restricted to a more specific region.
+After the initial introduction of `#swsw` for the entire region there has been discussion that this perhaps doesn't provide enough granularity and the use of postcode prefixes seems to be gaining some traction with the introduction of `#bs` for Bristol. The idea behind this is that it's an existing scheme that people already understand. The strategy is to add scopes for your specific and adjacent postcode regions to your repeaters. This allows for the creation of channels restricted to a more specific region.
 
 The following are scopes that may potentially be used for the region:
 
