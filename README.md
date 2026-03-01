@@ -1,6 +1,6 @@
 # South Wales and South West Channel and Scope Strategy
 
-This document is an attempt at centralising and documenting the evolving strategy for this regional area's use of channels and region scopes.
+This document is an attempt at centralising and documenting the evolving strategy for this regional area's use of **channels** and **region scopes**.
 
 It's not an attempt to dictate what we do but rather document what we are doing.
 
@@ -10,23 +10,55 @@ It's also not intended as comprehensive documentation of the all relevant MeshCo
 
 To suggest changes/additions tag me (PoorSignal) in the [United Kingdom - South West England (and South Wales)](https://discord.com/channels/1343693475589263471/1354436436199473254) Discord group and I'll do my best to keep things up to date.
 
-## Current Local Channels
+## Current Situation in South West and South Wales
 
-See later for explanations of what hash channels and scopes are and how to manage them.
+See later for explanations of what hashtag channels and scopes are and how to manage them.
+## Current Channels
 
-| Hashtag Channel Name     | Regional Scopes | Notes          |
-| ------------------------ | --------------- | -------------- |
-| ```#walesandwest-chat``` |                 |                |
-| ```#walesandwest```      | ```#swsw```     | Scoped channel |
-| ```#somerset```          |                 |                |
-| ```#somerset-swsw```     | ```#swsw```     | Scoped channel |
-| ```#devon```             |                 |                |
+| Hashtag Channel Name     | Regional Scopes | Notes           |
+| ------------------------ | --------------- | --------------- |
+| `#bristol`               | `#bs`           |                 |
+| `#devon`                 |                 |                 |
+| `#somerset-swsw`         | `#swsw`         | Scoped channel  |
+| `#somerset`              |                 |                 |
+| `#walesandwest-chat`     |                 |                 |
+| `#walesandwest`          | `#swsw`         | Scoped channel  |
+
+## Current Scopes
+
+After the initial introduction of `#swsw` for the entire region there has been discussion that this perhaps doesn't provide enough granularity and the use of postcode prefixes seems to be gaining some traction. The idea behind this is that it's an existing scheme that people already understand. The strategy is to add scopes for your specific and adjacent postcode regions to your repeaters. This allows for the creation of channels restricted to a more specific region.
+
+The following are scopes that may potentially be used for the region:
+
+| Scope   | Area                                     |
+| ------- | ---------------------------------------- |
+| `#swsw` | Entire South West And South Wales region |
+| `#ba`   | Bath                                     |
+| `#bh`   | Bournmouth                               |
+| `#bs`   | Bristol                                  |
+| `#cf`   | Cardiff                                  |
+| `#dt`   | Dorset                                   |
+| `#ex`   | Exeter                                   |
+| `#gl`   | Gloucestershire                          |
+| `#hr`   | Herefordshire                            |
+| `#ld`   | Llandrindod Wells (mid wales)            |
+| `#np`   | Newport                                  |
+| `#pl`   | Plymouth                                 |
+| `#sa`   | Swansea                                  |
+| `#sn`   | Swindon                                  |
+| `#sp`   | Salisbury                                |
+| `#ta`   | Taunton                                  |
+| `#tq`   | Torquay                                  |
+| `#tr`   | Truro                                    |
+| `#wr`   | Worcestershire                           |
 
 ## Public Hashtag Channels
 
 These are a relatively straight forward concept, and one need only know what they're called in order to add them via your MeshCore app from the Channels tab via the "..." menu.
 
 ## Regional Scopes
+
+**Important: if you don't want the hassle of thinking about scopes then just do nothing and everything will work.**
 
 ### Regional Scopes 101
 
@@ -42,6 +74,7 @@ This is clearly a complex area and further information for that can be found bel
 
 - [Repeater CLI: Region Management](https://github.com/meshcore-dev/MeshCore/blob/main/docs/cli_commands.md#region-management-v110)
 - [Region Filtering](https://buymeacoffee.com/ripplebiz/region-filtering)
+- [Region Scopes (Discord)](https://discord.com/channels/1421140832332939385/1475162832013361254)
 
 ### Issues With Scopes
 
@@ -70,7 +103,7 @@ Once successfully done it will be visible at the top of the channel below its na
 
 A repeater will re-broadcast flood messages that have no scope by default.  By adding region scopes it can be configured to drop any channel messages that have unknown/unwanted scopes.
 
-Below are examples of setting the ```#swsw``` scope.
+Below are examples of setting the `#swsw` scope.
 
 This can be done with the Repeater CLI:
 
