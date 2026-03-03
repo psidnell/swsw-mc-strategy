@@ -20,9 +20,11 @@ See later for explanations of what hashtag channels and scopes are and how to ma
 | `#walesandwest-chat`     |                 | Unscoped channel for whole region               |
 | `#walesandwest`          | `#swsw`         | Scoped channel for whole region                 |
 | `#bristol`               | `#bs`           |                                                 |
-| `#devon`                 |                 |                                                 |
+| `#cornwallanddevon`      |                 |                                                 |
+| `#devon`                 |                 |                                                 |
 | `#somerset-swsw`         | `#swsw`         |                                                 |
 | `#somerset`              |                 |                                                 |
+| `#swindon`               |                 |                                                 |
 
 ## Current Scopes
 
