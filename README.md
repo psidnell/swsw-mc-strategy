@@ -22,7 +22,9 @@ See later for explanations of what hashtag channels and scopes are and how to ma
 | `#bristol`               | `#bs`           |                                                 |
 | `#cornwall`              |                 |                                                 |
 | `#cornwallanddevon`      |                 |                                                 |
-| `#devon`                 |                 |                                                 |
+| `#devon`                 |                 |                                                 |
+| `#gloucestershire`       | `#gl`           |                                                 |
+| `#hereford`              |                 |                                                 |
 | `#somerset-swsw`         | `#swsw`         |                                                 |
 | `#somerset`              |                 |                                                 |
 | `#swindon`               |                 |                                                 |
