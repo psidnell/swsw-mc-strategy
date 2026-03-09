@@ -55,6 +55,9 @@ The following are scopes that may potentially be used for the region:
 | `#tr`   | Truro                                    |
 | `#wr`   | Worcestershire                           |
 
+
+![[postcodes.png]]
+
 ## Public Hashtag Channels
 
 These are a relatively straight forward concept, and one need only know what they're called in order to add them via your MeshCore app from the Channels tab via the "..." menu.
