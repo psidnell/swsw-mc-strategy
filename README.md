@@ -56,7 +56,7 @@ The following are scopes that may potentially be used for the region:
 | `#wr`   | Worcestershire                           |
 
 
-![[postcodes.png]]
+![](postcodes.png)
 
 ## Public Hashtag Channels
 
