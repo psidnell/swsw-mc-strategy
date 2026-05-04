@@ -4,30 +4,30 @@ This document is an attempt at centralising and documenting the evolving strateg
 
 It's not an attempt to dictate what we do but rather document what we are doing.
 
-It's also not intended as comprehensive documentation of the all relevant MeshCore features, that's better done by the official documentation on the main [MeshCore site](https://meshcore.co.uk),  [YouTube Channel](https://www.youtube.com/@meshcore-official) videos and [Discord](https://discord.com/channels/1343693475589263471/1354436436199473254).
+It's also not intended as comprehensive documentation of the all relevant MeshCore features, that's better done by the official documentation on the main [MeshCore site](https://meshcore.io) and [Discord](https://discord.com/channels/1495203904898728149/1495203905804701898).
 
 ## Comments and Suggestions Are Welcome
 
-To suggest changes/additions tag me (PoorSignal) in the [United Kingdom - South West England (and South Wales)](https://discord.com/channels/1343693475589263471/1354436436199473254) Discord group and I'll do my best to keep things up to date.
+To suggest changes/additions tag me (PoorSignal) in the [United Kingdom - South West England (and South Wales)](https://discord.com/channels/1495203904898728149/1496800161861599323) Discord group and I'll do my best to keep things up to date.
 
 ## Current Situation in South West and South Wales
 
 See later for explanations of what hashtag channels and scopes are and how to manage them.
 ## Current Channels
 
-| Hashtag Channel Name     | Regional Scopes | Notes                                           |
-| ------------------------ | --------------- | ----------------------------------------------- |
-| `#walesandwest-chat`     |                 | Unscoped channel for whole region               |
-| `#walesandwest`          | `#swsw`         | Scoped channel for whole region                 |
-| `#bristol`               | `#bs`           |                                                 |
-| `#cornwall`              |                 |                                                 |
-| `#cornwallanddevon`      |                 |                                                 |
-| `#devon`                 |                 |                                                 |
-| `#gloucestershire`       | `#gl`           |                                                 |
-| `#hereford`              |                 |                                                 |
-| `#somerset-swsw`         | `#swsw`         |                                                 |
-| `#somerset`              |                 |                                                 |
-| `#swindon`               |                 |                                                 |
+| Hashtag Channel Name     | Regional Scopes | Notes                                                                                 |
+| ------------------------ | --------------- | ------------------------------------------------------------------------------------- |
+| `#walesandwest-chat`     |                 | Unscoped channel for whole region                                                     |
+| `#walesandwest`          | `#swsw`         | Scoped channel for whole region                                                       |
+| `#bristol`               | `#bs`           | [Daniel's Bristol settings page](https://codeberg.org/danieldurrans/meshcore-bristol) |
+| `#cornwall`              |                 |                                                                                       |
+| `#cornwallanddevon`      |                 |                                                                                       |
+| `#devon`                 |                 |                                                                                       |
+| `#gloucestershire`       | `#gl`           |                                                                                       |
+| `#hereford`              |                 |                                                                                       |
+| `#somerset-swsw`         | `#swsw`         |                                                                                       |
+| `#somerset`              |                 |                                                                                       |
+| `#swindon`               |                 |                                                                                       |
 
 ## Current Scopes
 
@@ -82,7 +82,6 @@ This is clearly a complex area and further information for that can be found bel
 
 - [Repeater CLI: Region Management](https://github.com/meshcore-dev/MeshCore/blob/main/docs/cli_commands.md#region-management-v110)
 - [Region Filtering](https://buymeacoffee.com/ripplebiz/region-filtering)
-- [Region Scopes (Discord)](https://discord.com/channels/1421140832332939385/1475162832013361254)
 
 ### Issues With Scopes
 
