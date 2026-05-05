@@ -50,6 +50,8 @@ However, to successfully use scopes both the local repeaters must be configured 
 
 **Note:** It is also possible to block **all** un-scoped traffic and while some people are doing this it does not yet seem to be common practice. This issue with doing so is that new users joining the mesh and using the default configuration will have their messages silently dropped.
 
+There is also a new feature that allows a default scope to be applied, but that removes the ability leave some channels (like Public) un-scoped.
+
 This is clearly a complex area and further information for that can be found below:
 
 - [Region Management(https://docs.meshcore.io/cli_commands/#region-management-v110)
