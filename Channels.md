@@ -6,20 +6,21 @@
 
 Hashtag channels can be joined by anyone and the [Region](Regions.md) is an **optional** way of limiting how far your messages get propagated across the mesh for [Traffic Management](Traffic-Management.md) purposes. For example, to prevent a message you post in the Bristol channel from flooding across the entire mesh, possibly internationally.
 
-| Hashtag Channel Name     | Region                  | Notes                                                                                           |
-| ------------------------ | ----------------------- | ----------------------------------------------------------------------------------------------- |
-| `#bristol`               | `#bs`                   | [Daniel's Suggested Bristol Settings Page](https://codeberg.org/danieldurrans/meshcore-bristol) |
-| `#cornwall`              |                         |                                                                                                 |
-| `#cornwallanddevon`      |                         |                                                                                                 |
-| `#devon`                 |                         |                                                                                                 |
-| `#exeter`                | `#ex`                   |                                                                                                 |
-| `#gloucestershire`       | `#gl`                   |                                                                                                 |
-| `#hereford`              |                         |                                                                                                 |
-| `#somerset-swsw`         | `#swsw`                 |                                                                                                 |
-| `#somerset`              |                         |                                                                                                 |
-| `#swindon`               |                         |                                                                                                 |
-| `#walesandwest-chat`     | **None**                | Unscoped channel for whole region                                                               |
-| `#walesandwest`          | `#swsw`                 | Scoped channel for whole region                                                                 |
+| Hashtag Channel Name | Region   | Notes                                                                                           |
+| -------------------- | -------- | ----------------------------------------------------------------------------------------------- |
+| `#bristol`           | `#bs`    | [Daniel's Suggested Bristol Settings Page](https://codeberg.org/danieldurrans/meshcore-bristol) |
+| `#cornwall`          |          |                                                                                                 |
+| `#cornwallanddevon`  |          |                                                                                                 |
+| `#devon`             |          |                                                                                                 |
+| `#dorset`            |          |                                                                                                 |
+| `#exeter`            | `#ex`    |                                                                                                 |
+| `#gloucestershire`   | `#gl`    |                                                                                                 |
+| `#hereford`          |          |                                                                                                 |
+| `#somerset-swsw`     | `#swsw`  |                                                                                                 |
+| `#somerset`          |          |                                                                                                 |
+| `#swindon`           |          |                                                                                                 |
+| `#walesandwest-chat` | **None** | Unscoped channel for whole region                                                               |
+| `#walesandwest`      | `#swsw`  | Scoped channel for whole region                                                                 |
 
 ## Public Hashtag Channels
 
