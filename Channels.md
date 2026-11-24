@@ -21,6 +21,7 @@ Hashtag channels can be joined by anyone and the [Region](Regions.md) is an **op
 | `#swindon`           |          |                                                                                                 |
 | `#walesandwest-chat` | **None** | Unscoped channel for whole region                                                               |
 | `#walesandwest`      | `#swsw`  | Scoped channel for whole region                                                                 |
+| `#wiltshire`      |   | Scoped channel for whole region                                                                 |
 
 ## Public Hashtag Channels
 
